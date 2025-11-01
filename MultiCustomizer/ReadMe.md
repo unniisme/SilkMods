@@ -19,6 +19,9 @@ For a demo, check out [WandererTexturePack](../WandererTexturePack)
 - Overlaying : Allow loading multiple texture packs on top of each other
 - Any combination of the above 2, so that full texture packs for each condition need not be created, only sufficient overrides and overlays
 
+## Installation
+You can put the [MultiCustomizer.dll](../DLLS/MultiCustomizer.dll) in your BepInEx plugins folder, but you'll need to have another plugin to load in the texture you need, such as the WandererTexturePack plugin, which can also go in the plugins folder
 
 ------
 Many thanks to RatherChaotic and his [Customizer](https://github.com/RatherChaotic/SSCustomizer), which was used as a base for this mod.
+
